@@ -7,5 +7,5 @@
 - I'm 13 y/o
 - I live in India
 - I'm a LUA Dev
-- I'm also the Owner of TriStar Hub!
+<!-- - I'm also the Owner of TriStar Hub! -->
 - ⚡ Fun fact: The Fact Is Fun
