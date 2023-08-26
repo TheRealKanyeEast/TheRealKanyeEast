@@ -6,7 +6,7 @@
 
 
 - I'm a developer from India
-- 15 y/o
+- 16 y/o
 - Mainly Back-End Developer
 ---
 
